@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blexcentr.bestproductonlinestore.com/blexcentr.txt
